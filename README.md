@@ -114,7 +114,7 @@ along with drawille. If not, see < http://www.gnu.org/licenses/ >.
  * [https://github.com/madbence/node-drawille](https://github.com/madbence/node-drawille) (nodejs)
  * [https://github.com/exrook/drawille-go](https://github.com/exrook/drawille-go) (go)
  * [https://github.com/maerch/ruby-drawille](https://github.com/maerch/ruby-drawille) (ruby)
- * [https://github.com/sunetos/TextPlots.jl](https://github.com/sunetos/TextPlots.jl) (julia)
+ * [https://github.com/JuliaPlots/UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) (julia)
  * [https://github.com/mkremins/drawille-clj](https://github.com/mkremins/drawille-clj) (clojure)
  * [https://github.com/mydzor/bash-drawille](https://github.com/mydzor/bash-drawille) (bash)
  * [https://github.com/hoelzro/term-drawille](https://github.com/hoelzro/term-drawille) (perl 5)
